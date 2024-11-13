@@ -8,5 +8,4 @@ Resolução de vários exercícios com tipos de dados numéricos usando estrutur
     - Quem tenta adivinhar responde com uma das afirmações: "Acertou", "O número que pensei é Maior" ou "O número que pensei é Menor";
     - Uma vez descoberto o número o programa deverá terminar imprimindo o número de tentativas que quem adivinhou usou para chegar ao resultado.
 
-### Modalidade escolhida: 
-O utilizador escolhe um número de 0 a 100 e o computador adivinha.
+
